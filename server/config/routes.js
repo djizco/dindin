@@ -30,6 +30,11 @@ module.exports = [
   },
   {
     method: 'GET',
+    path: '/logout',
+    handler: Actions.logout,
+  },
+  {
+    method: 'GET',
     path: '/create',
     handler: Pages.createRecipe,
     config: {
