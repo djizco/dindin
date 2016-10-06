@@ -20,6 +20,7 @@
     "dindin-api": "^2.0.1",
     "handlebars": "^4.0.5",
     "hapi": "^15.1.1",
+    "hapi-auth-cookie": "^6.1.1",
     "inert": "^4.0.2",
     "superagent": "^2.3.0",
     "vision": "^4.1.0"
