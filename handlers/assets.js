@@ -6,4 +6,4 @@ const servePublicDirectory = {
 
 module.exports = {
   servePublicDirectory,
-}
+};

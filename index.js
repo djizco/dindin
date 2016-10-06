@@ -3,8 +3,8 @@ const api    = require('dindin-api');
 const inert  = require('inert');
 const vision = require('vision');
 
-const routes = require('./routes');
-const views  = require('./views');
+const routes = require('./config/routes');
+const views  = require('./config/views');
 
 const server = new Hapi.Server();
 server.connection({ port: 4000 });
