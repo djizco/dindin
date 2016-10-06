@@ -1,0 +1,25 @@
+{
+  "name": "dindin",
+  "version": "1.0.0",
+  "description": "A social network for food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djizco/dindin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djizco/dindin/issues"
+  },
+  "homepage": "https://github.com/djizco/dindin#readme",
+  "dependencies": {
+    "dindin-api": "^2.0.1",
+    "hapi": "^15.1.1",
+    "inert": "^4.0.2",
+    "vision": "^4.1.0"
+  }
+}
