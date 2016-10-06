@@ -3,9 +3,9 @@ const handlebars = require('handlebars');
 module.exports = {
   engines: { hbs: handlebars },
   relativeTo: __dirname,
-  path: '../views',
-  layoutPath: '../views/layout',
+  path: '../../client/views',
+  layoutPath: '../../client/views/layout',
   layout: true,
   isCached: false,
-  partialsPath: '../views/partials',
+  partialsPath: '../../client/views/partials',
 };

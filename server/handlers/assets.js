@@ -1,6 +1,6 @@
 const servePublicDirectory = {
   directory: {
-    path: 'public',
+    path: 'client/public',
   },
 };
 
